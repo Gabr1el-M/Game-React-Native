@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "deep-dive-real-app",
-    "slug": "deep-dive-real-app",
+    "name": "basics",
+    "slug": "basics",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "white",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
